@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/github.io/CRM-FrontEnd/static/css/main.019a67c5.css",
-    "main.js": "/github.io/CRM-FrontEnd/static/js/main.4d46abd8.js",
+    "main.js": "/github.io/CRM-FrontEnd/static/js/main.93926e8a.js",
     "index.html": "/github.io/CRM-FrontEnd/index.html",
     "main.019a67c5.css.map": "/github.io/CRM-FrontEnd/static/css/main.019a67c5.css.map",
-    "main.4d46abd8.js.map": "/github.io/CRM-FrontEnd/static/js/main.4d46abd8.js.map"
+    "main.93926e8a.js.map": "/github.io/CRM-FrontEnd/static/js/main.93926e8a.js.map"
   },
   "entrypoints": [
     "static/css/main.019a67c5.css",
-    "static/js/main.4d46abd8.js"
+    "static/js/main.93926e8a.js"
   ]
 }
