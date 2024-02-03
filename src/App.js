@@ -1,13 +1,13 @@
 import Dashboard from "dashboard/Dashboard";
 import Root from "./dashboard/Root";
 // import Root from "./dashboard/Root";
-import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } from "react-router-dom";
+import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider, createHashRouter } from "react-router-dom";
 import Login from "dashboard/Login";
 
 
 
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <><Route path="/" element={<Root />}>
 
